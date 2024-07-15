@@ -1,0 +1,5 @@
+TR = ../data/ML-CUP23-TR_reduced.csv
+topology = 100
+epochs = 20000
+minibatch_size = 1
+reg_coefficient = 0.00001
