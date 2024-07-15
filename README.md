@@ -10,4 +10,3 @@ config_nn default: config/config_nn.txt
 
 ## To run the LR solver:
 python3 main_2.py
-# CM Project
